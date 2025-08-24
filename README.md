@@ -31,11 +31,11 @@
   procedures_queries_index.sql
   Contient :
   
-    Les requêtes SQL demandées (ex. listes de tâches ≥ 5, top utilisateurs par score, etc.).
+  Les requêtes SQL demandées (ex. listes de tâches ≥ 5, top utilisateurs par score, etc.).
     
-    Les définitions des index pour optimiser les performances.
-    
-    Les procédures/fonctions PL/SQL (calcul de score, archivage des tâches, etc.).
+  Les définitions des index pour optimiser les performances.
+ 
+  Les procédures/fonctions PL/SQL (calcul de score, archivage des tâches, etc.).
     
   sequences_create_drop.sql
   Scripts pour créer et supprimer les séquences Oracle utilisées pour générer automatiquement des identifiants uniques.
@@ -52,6 +52,7 @@
   Mise à jour automatique du score lorsqu’une tâche est terminée ou archivée.
   
   Génération automatique de tâches périodiques à partir de leur définition.
-Modèle E/A
+
+📊 Modèle Entité-Association (E/A)
 <img width="1031" height="769" alt="Capture d'écran 2025-08-24 120144" src="https://github.com/user-attachments/assets/8ffa97a8-bd1b-4ae8-ad47-3e3fc9388490" />
 
